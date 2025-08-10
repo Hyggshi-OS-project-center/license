@@ -1,0 +1,17 @@
+HOSLC-1.0 - Hyggshi OS License Commerce v1.0
+Copyright © 2025 [Your Name]
+
+1. Usage Rights
+   This software is licensed as open source. You may use, copy, modify, and distribute the source code, including for commercial purposes, under the conditions below.
+
+2. Special Conditions
+   a) Use of this code for AI projects is not mandatory.
+   b) If this code is used to create an operating system (OS) or graphical user interface (GUI) in Roblox Studio, you must clearly display:
+      By [Your Name]
+      in a visible location within the product or accompanying documentation.
+
+3. Disclaimer
+   This software is provided "AS IS", without any warranties, express or implied. The author is not liable for any damages, losses, or consequences arising from the use of this software.
+
+4. Acceptance of License
+   By using or distributing this software, you are deemed to have read, understood, and agreed to comply with the terms of the HOSLC-1.0 license.
